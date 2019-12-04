@@ -1,4 +1,6 @@
-public class Calculator {
+
+
+class Calculator {
     public static void someMethod() {
         System.out.println("It works!");
     }
